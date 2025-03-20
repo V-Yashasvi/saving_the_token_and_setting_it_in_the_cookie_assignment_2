@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "servor --reload",
-    "test":"node script.js"
+    "test": "node script.js"
   },
   "dependencies": {
     "dotenv": "^16.4.7",
